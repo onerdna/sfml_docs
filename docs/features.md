@@ -1,0 +1,15 @@
+# Features
+- Custom package name modifiable by mod authors
+- No asset encryption
+- `packs.xml` and `users.xml` hashing validation disabled
+- Internet access fully restricted
+- Offline raids support (using `raid_stages_default.xml`)
+- Custom enchantments applier implementation, allowing for multiple enchantments on the same weapons
+- No duel restrictions
+- Configurable high framerate support
+- Bundles validation disabled
+- A modding engine that is capable of loading custom sprites, weapon models, XML files and effects. This also includes the following features:
+    - Intercepting normal single-asset load calls (`Resources.Load` and `AssetBundle.Load`)
+    - Intercepting multi-asset load calls (`Resources.LoadAll` and `AssetBundle.LoadAll`) with join and overwrite modes
+    - Intercepting multi-asset load calls using PLIST and atlas files
+    - Logging every request of the game for loading assets in `sfml_log.txt`

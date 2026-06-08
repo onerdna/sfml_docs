@@ -45,8 +45,9 @@ Copyright &copy; 2026 Onerdna
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 # nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
+#   { "SFML - Shadow Fight Mod Loader" = "index.md" },
+#   { "Features" = "features.md" },
+#   { "Updater" = "updater.md" },
 # ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

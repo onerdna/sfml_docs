@@ -1,6 +1,6 @@
 # SFML - Shadow Fight Mod Loader
 
-**Documentation was last updated for version**: *1.0.1*
+**Documentation was last updated for version**: *1.0.5*
 
 **SFML (Shadow Fight Mod Loader)** is an unofficial modding platform for Shadow Fight 2 mobile game.
 !!! warning "Disclaimer"
